@@ -70,7 +70,7 @@ Arranca el servidor:
 
 .\kafka-server-start.bat ..\..\config\server.properties
 
-📬 Crear Topics
+Crear Topics
 
 En bin/windows ejecuta:
 
